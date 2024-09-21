@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rueakieu.github.io/sitemap.html.gz
+Sitemap: https://rueakieu.github.io/app/sitemap.html.gz
+Sitemap: https://rueakieu.github.io/assets/sitemap.html.gz
+Sitemap: https://rueakieu.github.io/css/sitemap.html.gz
+Sitemap: https://rueakieu.github.io/data/sitemap.html.gz
+Sitemap: https://rueakieu.github.io/includes/sitemap.html.gz
+Sitemap: https://rueakieu.github.io/item/sitemap.html.gz
+Sitemap: https://rueakieu.github.io/src/sitemap.html.gz
